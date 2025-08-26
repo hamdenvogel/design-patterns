@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+C:\Hamden\Sistemas\Backend\design-patterns\diagramas\.metadata\.plugins\org.eclipse.jdt.core
+2652287734.index
+1969766665.index
+656629539.index
+455751266.index
+4174719322.index
+879548567.index
+3904494675.index
+1790183026.index
+1791318292.index
+1263262980.index
+920006274.index
+1895944099.index
+1120755002.index
+650889822.index
+2489276201.index
+2926136652.index
+407289649.index
+3439518338.index
+555454712.index
+1486262967.index
+1964303817.index
